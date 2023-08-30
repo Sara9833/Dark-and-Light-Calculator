@@ -1,32 +1,37 @@
 # Dark-and-Light-Calculator
-This is a simple calculator web application that supports both dark and light themes. It allows users to perform basic arithmetic operations and switch between different themes for visual preferences.
 
+Welcome to the Dark-and-Light Calculator! This is a simple web application that brings a dynamic calculator experience with both dark and light themes. It enables users to perform basic arithmetic operations while offering the flexibility to switch between different themes for personalized visual preferences.
 
+## Features
 
-# Features
 - Basic arithmetic operations: addition, subtraction, multiplication, division.
+- Additional functionalities: exponentiation (^), square root (√), percentage (%), and factorial (!).
 - Support for parentheses to group expressions.
-- Dark and light themes for different visual preferences.
+- Dark and light themes for enhanced visual comfort.
 - Visual feedback on button clicks.
 
-# Usage
-To use the calculator, simply enter the numbers and operations using the provided buttons. The display will show the entered expression and the calculated result. You can switch between dark and light themes by clicking the theme toggle button.
+## Usage
 
-# Buttons
+Using the calculator is straightforward. Simply input numbers and operations using the provided buttons. The display will showcase the entered expression along with the calculated result. The theme toggle button empowers you to seamlessly switch between the dark and light themes.
+
+## Buttons
+
 - Numbers: 0-9
-- Operators: +, -, *, /, (, )
+- Operators: +, -, *, /, ^, √, %, !, (, )
 - Special Buttons: C (Clear), < (Backspace), = (Equal)
 
-# Themes
-The calculator supports two themes:
-- Light Theme: Provides a clean and bright interface for daytime use.
-- Dark Theme: Offers a stylish and low-light interface for nighttime use.
-  
-# Credits
-This calculator is based on an open source project. The original project can be found here.
+## Themes
 
+The Dark-and-Light Calculator caters to two themes:
 
+- Light Theme: A clean and vibrant interface ideal for daytime usage.
+- Dark Theme: A chic and low-light interface tailored for nighttime usage.
 
+## Contributing
 
+We welcome contributions to enhance this calculator further! If you have new features, improvements, or fixes to propose, feel free to submit a pull request. Let's work together to make this calculator even better.
 
+## Credits
+
+This calculator is built upon an open-source foundation. The original project that inspired this creation can be found at [OriginalProjectLink](link-to-original-project).
 
